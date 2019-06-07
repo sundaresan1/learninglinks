@@ -83,6 +83,11 @@ https://www.youtube.com/watch?v=-6x6XBDf9sQ
 
 [https://medium.com/gumtree-dev-team/android-bdd-with-cucumber-and-espresso-the-full-guide-9c20cfcb8535](https://medium.com/gumtree-dev-team/android-bdd-with-cucumber-and-espresso-the-full-guide-9c20cfcb8535)
 
+**Mathematical notations in Machine Learning:**
+
+https://machinelearningmastery.com/basics-mathematical-notation-machine-learning/
+
+
 **Useful utilities:**
 
 https://bitbucket.org/atlassian/swagger-request-validator/src/master/
